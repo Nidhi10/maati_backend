@@ -1,0 +1,15 @@
+{
+  "name": "maatibackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nidhi10/maati_backend",
+  "author": "nidhi",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.3.0"
+  },
+  "scripts":{"start":"node server.js"},
+  "engines": {
+    "node": "13.x"
+  },
+}
